@@ -19,3 +19,12 @@ You can click the Preview link to take a look at your changes.
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=anda05&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anda05&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
 </p>
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anda05&theme=nightowl)
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=anda05&style=for-the-badge&color=orange" alt=""/>
+</div>
