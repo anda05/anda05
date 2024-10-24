@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anda05
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python, C and R
 - 📫 How to reach me: ankana.datta507@gmail.com
 - 😄 Pronouns: she/her
 
